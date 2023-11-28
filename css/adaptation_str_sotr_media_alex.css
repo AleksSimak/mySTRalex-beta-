@@ -1,0 +1,85 @@
+@media only screen and (max-width: 1360px) {
+  #par {margin-top: 25px;
+  margin-left: 95px;}
+  .skills{
+  }
+  .price{
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+#par {margin-top: 25px;
+margin-left: 95px;}
+.skills{
+}
+
+}
+@media only screen and (max-width: 992px) {
+  #par {margin-top: 25px;
+  margin-left: 95px;}
+  .skills{
+    padding: 12px;
+  }
+
+}
+@media only screen and (max-width: 768px) {
+  #par {margin-top: 25px;
+  margin-left: 95px;}
+ 
+
+}
+@media only screen and (max-width: 480px) {
+  #par {margin-top: 25px;
+  margin-left: 95px;}
+  .skills{
+  }
+
+}
+@media only screen and (max-width: 320px) {
+  #par {margin-top: 25px;
+  margin-left: 95px;
+font-size: 25px;}
+  .skills{
+  }
+
+  .nprice{
+    font-size: 25px;
+  }
+}
+@media only screen and (max-width: 1070px) {
+  .slick-list{
+    width: 750px;
+  }
+  .pict{
+    height: 30%;
+  }
+  .pict_media {
+    display: block;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+}
+  .popexit{
+    width: 26px;
+  }
+  .whitepanel{
+    font-size: 27px;
+  }
+  .whitepanel{
+    font-size: 25px;
+  }
+  .par {
+    font-size: 17px;
+  }
+  .slider-for {
+    max-width: 650px;
+  }
+}
+@media only screen and (max-width: 434px) {
+  .pict_media {
+    width: 90%;
+    height: 70%;
+  }
+  
+}
